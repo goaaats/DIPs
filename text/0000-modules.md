@@ -73,7 +73,7 @@ The supported syntax for version ranges mirrors [NuGet syntax for version ranges
 <ItemGroup>
   <DalamudModuleReference Include="Foo" Version="1.*" />
 </ItemGroup>
-````
+```
 
 ## Creating and Distributing Module Plugins
 
